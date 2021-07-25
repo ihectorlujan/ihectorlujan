@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ihectorlujan96
 - 👀 I’m interested in travel to Japan
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript, Express, NodeJS and ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ihectorlujan96@gmail.com
 
