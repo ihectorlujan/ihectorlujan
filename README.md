@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ihectorlujan
 - 👀 I’m interested in travel to Japan
 - 🌱 I’m currently learning TypeScript, Express, NodeJS and ReactJS
-- 💞️ I’m looking to collaborate on Front-end projects
+- 💞️ I’m looking to collaborate on Frontend projects
 - 📫 How to reach me: ihectorlujan96@gmail.com
 
 
