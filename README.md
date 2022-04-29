@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @ihectorlujan
+# 👋 Hi, I’m @ihectorlujan
+
+```javascript
+const loverOf = () => {
+  Frontend Developer ❤
+  Japanise Culture ⛩
+  Linux Personalization 🚀
+}
+```
+
 - 👀 I’m interested in travel to Japan
 - 🌱 I’m currently learning TypeScript, Express, NodeJS and ReactJS
 - 💞️ I’m looking to collaborate on Frontend projects
-- 📫 How to reach me: ihectorlujan96@gmail.com
+- ✉️ How to reach me: ihectorlujan96@gmail.com
 
 
 <!---
