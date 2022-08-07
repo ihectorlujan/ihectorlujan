@@ -1,4 +1,4 @@
-![Hello!](assets/header.gif "Hello, I'm ihectorlujan! ")
+![Hello!](assets/ihectorlujan.gif "Hello, I'm ihectorlujan! ")
 
 
 ```console
