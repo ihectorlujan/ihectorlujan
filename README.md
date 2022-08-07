@@ -1,4 +1,5 @@
-# 👋 Hi, I'm ihectorlujan!
+![Hello!](assets/header.gif "Hello, I'm ihectorlujan! ")
+
 
 ```console
 ihectorlujan@NotebookPro:~$ whoami
@@ -10,7 +11,8 @@ Putla Villa de Guerrero, Oaxaca, Mexico 🌎
 ihectorlujan@NotebookPro:~$  cd Documents
 ihectorlujan@NotebookPro:~$  nvim skills.js
 ```
-```javascript
+
+```
 const loverOf = () => {
   Frontend Developer ❤
   Japanise Culture ⛩
