@@ -52,6 +52,20 @@ const loverOf = () => {
 }
 ```
 
+## Stats 🥇:
+
+<p align='left'>
+  <a>
+  <img src='https://github-readme-stats.vercel.app/api?username=ihectorlujan'/>
+  <a/>
+  <p/>
+  
+  <p align='left'>
+  <a>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ihectorlujan'/>
+  <a/>
+<p/>
+
 
 <p align='right'>
   <a>
