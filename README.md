@@ -57,12 +57,9 @@ const loverOf = () => {
 | <a href="https://github.com/ihectorlujan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ihectorlujan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/ihectorlujan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihectorlujan&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<p align='right'>
-  <a>
-      <img src='https://forthebadge.com/images/badges/built-with-love.svg'/>
-  <a/>
-<p/>
- 
+
+<hr/>
+<footer>
 <p align='right'>
   <a>
       <img src='https://forthebadge.com/images/badges/made-with-markdown.svg'/>
@@ -71,3 +68,10 @@ const loverOf = () => {
       <img src='https://forthebadge.com/images/badges/uses-html.svg'/>
   <a/>
 <p/>
+
+<p align='right'>
+  <a>
+      <img src='https://forthebadge.com/images/badges/built-with-love.svg'/>
+  <a/>
+<p/>
+<footer/>
