@@ -54,27 +54,8 @@ const loverOf = () => {
 
 ## Stats 🥇:
 
-<p align='left'>
-  <a>
-  <img src='https://github-readme-stats.vercel.app/api?username=ihectorlujan'/>
-  <a/>
-<p/>
-  
-  
-<p align='left'>
-  <a>
-  <img src='(https://github-readme-stats.vercel.app/api/top-langs/?username=ihectorlujan&layout=compact'/>
-  <a/>
-<p/>
-  
-<p align='left'>
-  <a>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ihectorlujan'/>
-  <a/>
-<p/>
-
-
-
+| <a href="https://github.com/ihectorlujan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ihectorlujan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/ihectorlujan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihectorlujan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <p align='right'>
   <a>
