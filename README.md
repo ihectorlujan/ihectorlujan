@@ -58,13 +58,22 @@ const loverOf = () => {
   <a>
   <img src='https://github-readme-stats.vercel.app/api?username=ihectorlujan'/>
   <a/>
-  <p/>
+<p/>
   
-  <p align='left'>
+  
+<p align='left'>
+  <a>
+  <img src='(https://github-readme-stats.vercel.app/api/top-langs/?username=ihectorlujan&layout=compact'/>
+  <a/>
+<p/>
+  
+<p align='left'>
   <a>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ihectorlujan'/>
   <a/>
 <p/>
+
+
 
 
 <p align='right'>
