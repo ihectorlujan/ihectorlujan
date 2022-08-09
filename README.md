@@ -13,7 +13,7 @@ ihectorlujan@NotebookPro:~$  nvim likes.js
 
 ```javascript
 const loverOf = () => {
-  Frontend Developer ❤
+  const development = "Frontend Developer ❤"
   Japanise Culture ⛩
   Linux Personalization 🚀
 }
