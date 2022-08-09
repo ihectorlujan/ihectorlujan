@@ -13,9 +13,9 @@ ihectorlujan@NotebookPro:~$  nvim likes.js
 
 ```javascript
 const loverOf = () => {
-  const development = "Frontend Developer ❤"
-  Japanise Culture ⛩
-  Linux Personalization 🚀
+  let developmentSkill = "Frontend Developer ❤"
+  let learningAbout = "Japanise Culture ⛩"
+  let hobbie = "Linux Personalization 🚀"
 }
 ```
 
