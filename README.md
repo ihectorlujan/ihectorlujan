@@ -8,9 +8,16 @@ ihectorlujan@NotebookPro:~$  pwd
 Putla Villa de Guerrero, Oaxaca, Mexico 🌎
 
 ihectorlujan@NotebookPro:~$  cd Documents
-ihectorlujan@NotebookPro:~$  nvim skills.js
+ihectorlujan@NotebookPro:~$  nvim likes.js
 ```
 
+```javascript
+const loverOf = () => {
+  Frontend Developer ❤
+  Japanise Culture ⛩
+  Linux Personalization 🚀
+}
+```
 
 ## Skills 🦊:
 
@@ -44,13 +51,7 @@ ihectorlujan@NotebookPro:~$  nvim skills.js
   
   
   
-```javascript
-const loverOf = () => {
-  Frontend Developer ❤
-  Japanise Culture ⛩
-  Linux Personalization 🚀
-}
-```
+
 
 ## Stats 🥇:
 
