@@ -55,13 +55,8 @@ const loverOf = () => {
 
 ## Stats 🥇:
 
-| <a href="https://github.com/ihectorlujan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ihectorlujan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true"/></a> | <a href="https://github.com/ihectorlujan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihectorlujan" /></a> |
+| <a href="https://github.com/ihectorlujan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ihectorlujan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true"/></a> | <a href="https://github.com/ihectorlujan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihectorlujan&layout=compact" /></a> |
 | ------------- | ------------- |
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihectorlujan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihectorlujan&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <hr/>
 <footer>
