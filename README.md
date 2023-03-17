@@ -55,7 +55,7 @@ const loverOf = () => {
 
 ## Stats 🥇:
 
-| <a href="https://github.com/ihectorlujan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ihectorlujan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true"/></a> | <a href="https://github.com/ihectorlujan"><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ihectorlujan&langs_count=8&layout=compact&theme=buefy&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=ihectorlujan&langs_count=8)" /></a> |
+| <a href="https://github.com/ihectorlujan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ihectorlujan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true"/></a> | <a href="https://github.com/ihectorlujan"><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ihectorlujan&langs_count=8&layout=compact&theme=buefy&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=ihectorlujan)" /></a> |
 | ------------- | ------------- |
 
 
